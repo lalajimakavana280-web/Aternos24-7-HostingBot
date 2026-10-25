@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "YourBotUsername",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "pm9926324gmailc-3wok.aternos.me:11556",
