@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
-    "version": "",
+    "ip": "pm9926324gmailc-3wok.aternos.me:11556",
+    "port": 11556,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
